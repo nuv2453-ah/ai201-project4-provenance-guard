@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": "6583afcf-72be-452e-9978-91a5f0011338",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-26T04:04:07.249116+00:00",
+    "attribution": "uncertain",
+    "confidence": 0.684,
+    "llm_score": 0.92,
+    "llm_reasoning": "overly formal tone, uniform sentence structure, and lack of natural imperfections suggest AI generation",
+    "stylo_score": 0.246,
+    "status": "under_review",
+    "appeal": {
+      "submitted_at": "2026-06-26T04:05:25.205779+00:00",
+      "creator_reasoning": "I wrote this myself from personal experience. I am a non-native English speaker and my writing style may appear more formal than typical."
+    }
+  },
+  {
+    "content_id": "e80f2c7d-f509-4107-b0c9-1e24df993d59",
+    "creator_id": "test-user-2",
+    "timestamp": "2026-06-26T04:05:11.241955+00:00",
+    "attribution": "likely_human",
+    "confidence": 0.198,
+    "llm_score": 0.21,
+    "llm_reasoning": "natural language patterns, informal tone, and personal opinions suggest human authorship",
+    "stylo_score": 0.175,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "e49d2d2f-879e-49e1-9968-08407324d656",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:43.106245+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "e25b8145-ec50-49f4-90b5-feed83761ad3",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:43.506684+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "f0978784-0280-4fad-a13c-84cbf2da5632",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:43.861798+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "bf4aea05-ccd5-4780-b5b3-72d168681dff",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:44.328905+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "8b50d410-58f7-43a9-a131-b08ca1f30fd5",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:44.680792+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "2db3f394-42e2-4dda-9e7d-a91243f71dc6",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:44.962784+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "eda642d9-874a-4655-8d4d-1828e185bf5e",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:45.352185+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "355dfa3f-195d-42d6-8de6-5db079e9ce77",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:45.746916+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "5a69131f-af1f-4a60-8648-54ca7fef5477",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:46.173174+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "d63e726b-1220-4cd3-b17d-fabc0d054264",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-26T04:07:46.459396+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.792,
+    "llm_score": 0.95,
+    "llm_reasoning": "extremely brief and lacks natural imperfections",
+    "stylo_score": 0.5,
+    "status": "classified",
+    "appeal": null
+  }
+]
